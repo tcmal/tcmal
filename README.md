@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```rust
 let person = PersonBuilder::new()
                .name("Oscar")
