@@ -2,7 +2,6 @@
 let person = PersonBuilder::new()
                .name("Oscar")
                .alias("tcmal")
-               .pronouns(Pronouns::TheyThem)
                .website("tcmal.xyz")
                .country(Countries::Scotland)
                .language(Language::Rust, Level::Good)
