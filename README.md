@@ -1,11 +1,12 @@
 ```rust
 let person = PersonBuilder::new()
-               .name("Oscar")
+               .name("Aria")
                .alias("tcmal")
-               .website("tcmal.xyz")
+               .website("aria.rip")
                .country(Countries::Scotland)
-               .language(Language::Rust, Level::Good)
-               .language(Language::Python, Level::Great)
-               .language(Language::Js, Level::Great)
+               .language(Language::Rust, Level::Great)
+               .language(Language::Nix, Level::Great)
+               .language(Language::Python, Level::Good)
+               .language(Language::Js, Level::Good)
                .build();
 ```
