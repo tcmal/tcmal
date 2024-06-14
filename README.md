@@ -1,4 +1,4 @@
-Hi, I'm Aria. I'm a University of Edinburgh student, interested in systems design, type theory, and infrastructure.
+Hi, I'm Aria. I do infrastructure things for UKCEH.
 
-The work here is very outdated - I don't like GitHub for several reasons.
+The work here is mostly outdated or private - I don't use GitHub for personal projects.
 For what I'm working on, see [my website](https://aria.rip/cv.html)
